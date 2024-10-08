@@ -3,7 +3,6 @@
 //
 
 #include "Cliente.h"
-#include "Cliente.h"
 #include <iostream>
 
 Cliente::Cliente(const string &nombre, const string &empresa, const string &contacto)
